@@ -6,7 +6,7 @@ namespace Adventure_Game
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Git hub");
         }
     }
 }
