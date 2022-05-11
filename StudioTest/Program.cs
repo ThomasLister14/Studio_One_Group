@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace Adventure_Game
+namespace StudioTest
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Git hub");
+            Console.WriteLine("Hello World!");
         }
     }
 }
